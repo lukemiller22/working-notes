@@ -1,0 +1,26 @@
+.footer {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid #e2e8f0;
+}
+
+.footer__references {
+  margin-bottom: 2rem;
+}
+
+.footer__message {
+  font-size: 0.9rem;
+  color: #718096;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.footer__link {
+  color: #3182ce;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer__link:hover {
+  text-decoration: underline;
+}
