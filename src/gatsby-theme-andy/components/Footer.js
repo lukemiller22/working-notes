@@ -1,51 +1,19 @@
-/** @jsx jsx */
-import { jsx } from 'theme-ui'
+import React from 'react'
 import ReferredBlock from 'gatsby-theme-andy/src/components/ReferredBlock'
+import './Footer.css'
 
 const Footer = ({ references = [] }) => {
   return (
-    <footer
-      sx={{
-        marginTop: 4,
-        paddingTop: 3,
-        borderTop: '1px solid',
-        borderColor: 'gray'
-      }}
-    >
+    <footer className="footer">
       {references.length > 0 && (
-        <div sx={{ marginBottom: 3 }}>
+        <div className="footer__references">
           <ReferredBlock references={references} />
         </div>
       )}
-      
-      <div
-        sx={{
-          fontSize: 1,
-          color: 'text-light',
-          fontStyle: 'italic',
-          lineHeight: 1.5
-        }}
-      >
-        If you'd like to share an idea or your thoughts on something in this note feel free to send me a{" "}
-        <a 
-          href="https://x.com/lukeallenmiller" 
-          target="_blank" 
-          rel="noopener noreferrer"
-          sx={{
-            color: 'links',
-            textDecoration: 'none',
-            fontWeight: 'bold',
-            '&:hover': {
-              textDecoration: 'underline'
-            }
-          }}
-        >
-          direct message
-        </a>
-        .
-      </div>
     </footer>
   )
 }
+
+export default Footer
 
 export default Footer
