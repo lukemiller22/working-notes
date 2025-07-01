@@ -15,5 +15,3 @@ const Footer = ({ references = [] }) => {
 }
 
 export default Footer
-
-export default Footer
