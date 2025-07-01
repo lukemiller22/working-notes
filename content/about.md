@@ -20,10 +20,10 @@ Internal links will open in side-by-side panels. That's obvious enough. The effe
 These notes are the raw materials with which I am assembling a working theory of knowledge. A layman's guide to knowledge work. A street-level epistemology.
 
 This work is built on a few baseline assumptions:
-- 1. [[Life is a serious enough context for taking and using notes.]]
-- 2. [[We need tools for thought that are designed for generalists, not just specialists.]]
-- 3. [[All discourse is multilayered, resisting reductionist approaches to interpretation.]]
-- 4. [[Traditional analytic tools fail to prepare students for the complexity of human discourse.]]
+1. [[Life is a serious enough context for taking and using notes.]]
+2. [[We need tools for thought that are designed for generalists, not just specialists.]]
+3. [[All discourse is multilayered, resisting reductionist approaches to interpretation.]]
+4. [[Traditional analytic tools fail to prepare students for the complexity of human discourse.]]
 
 ### Contact Me
 
