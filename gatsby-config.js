@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-      title: 'My Working Notes',
+      title: 'Luke's Working Notes',
     },
     plugins: [`gatsby-theme-andy`],
   };
