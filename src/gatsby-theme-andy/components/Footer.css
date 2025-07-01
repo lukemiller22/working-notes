@@ -8,6 +8,10 @@
 
 .footer__references {
   margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: #f7fafc;
+  border-radius: 0.375rem;
+  border: 1px solid #e2e8f0;
 }
 
 .footer__message {
